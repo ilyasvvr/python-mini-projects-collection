@@ -20,7 +20,6 @@ This repository contains a set of beginner Python projects created while learnin
 ## 🎯 Purpose
 
 - Practice Python basics
-- Improve problem-solving skills
 - Understand control flow, functions, and user input
 - Build small real-world style programs
 
